@@ -1,0 +1,5 @@
+Z:\Projekte\C#\Bibliotheken\WoLib\bin\Debug\WoLib.dll
+Z:\Projekte\C#\Bibliotheken\WoLib\bin\Debug\WoLib.pdb
+Z:\Projekte\C#\Bibliotheken\WoLib\obj\Debug\WoLib.csprojResolveAssemblyReference.cache
+Z:\Projekte\C#\Bibliotheken\WoLib\obj\Debug\WoLib.dll
+Z:\Projekte\C#\Bibliotheken\WoLib\obj\Debug\WoLib.pdb
