@@ -17,5 +17,6 @@ your device schould have been turned on. If not check your PCI-E settings.
 # More information
 More information about "Wake on LAN" can be found in the corresponding wiki:
 
-  https://en.wikipedia.org/wiki/Wake-on-LAN //English
-  https://de.wikipedia.org/wiki/Wake_On_LAN //German
+https://en.wikipedia.org/wiki/Wake-on-LAN //English
+
+https://de.wikipedia.org/wiki/Wake_On_LAN //German
