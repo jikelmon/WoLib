@@ -28,12 +28,12 @@ namespace WoLib
             //Fill in 16x ethernet mac address
             for (int i = 0; i < 16; i++)
             {
-                magic_packet[i * 6 + 5] = device_mac_address.mac_address[0];
-                magic_packet[i * 6 + 6] = device_mac_address.mac_address[1];
-                magic_packet[i * 6 + 7] = device_mac_address.mac_address[2];
-                magic_packet[i * 6 + 8] = device_mac_address.mac_address[3];
-                magic_packet[i * 6 + 9] = device_mac_address.mac_address[4];
-                magic_packet[i * 6 + 10] = device_mac_address.mac_address[5];
+                magic_packet[i * 6 + 6] = device_mac_address.mac_address[0];
+                magic_packet[i * 6 + 7] = device_mac_address.mac_address[1];
+                magic_packet[i * 6 + 8] = device_mac_address.mac_address[2];
+                magic_packet[i * 6 + 9] = device_mac_address.mac_address[3];
+                magic_packet[i * 6 + 10] = device_mac_address.mac_address[4];
+                magic_packet[i * 6 + 11] = device_mac_address.mac_address[5];
             }            
         }
 
@@ -64,12 +64,12 @@ namespace WoLib
             //Fill in 16x ethernet mac address
             for (int i = 0; i < 16; i++)
             {
-                magic_packet[i * 6 + 5] = hex_address[0];
-                magic_packet[i * 6 + 6] = hex_address[1];
-                magic_packet[i * 6 + 7] = hex_address[2];
-                magic_packet[i * 6 + 8] = hex_address[3];
-                magic_packet[i * 6 + 9] = hex_address[4];
-                magic_packet[i * 6 + 10] = hex_address[5];
+                magic_packet[i * 6 + 6] = hex_address[0];
+                magic_packet[i * 6 + 7] = hex_address[1];
+                magic_packet[i * 6 + 8] = hex_address[2];
+                magic_packet[i * 6 + 9] = hex_address[3];
+                magic_packet[i * 6 + 10] = hex_address[4];
+                magic_packet[i * 6 + 11] = hex_address[5];
             }
         }
 
@@ -91,12 +91,12 @@ namespace WoLib
             //Fill in 16x ethernet mac address
             for (int i = 0; i < 16; i++)
             {
-                magic_packet[i * 6 + 5] = a;
-                magic_packet[i * 6 + 6] = b;
-                magic_packet[i * 6 + 7] = c;
-                magic_packet[i * 6 + 8] = d;
-                magic_packet[i * 6 + 9] = e;
-                magic_packet[i * 6 + 10] = f;
+                magic_packet[i * 6 + 6] = a;
+                magic_packet[i * 6 + 7] = b;
+                magic_packet[i * 6 + 8] = c;
+                magic_packet[i * 6 + 9] = d;
+                magic_packet[i * 6 + 10] = e;
+                magic_packet[i * 6 + 11] = f;
             }
         }
 
